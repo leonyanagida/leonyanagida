@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align='right' src='https://raw.githubusercontent.com/leonyanagida/leonyanagida/main/images/gif/glasses.gif' width='350"'>
 
-<!--
-**leonyanagida/leonyanagida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome, allow me to introduce myself.
+- 👋 Hello, my name is Leon Yanagida <br />
+- 💻 I'm a Front-End Web Developer  <br />
+- 🏡 Based in Los Angeles, California  <br />
+- 💼 Open for work! <br />
 
-Here are some ideas to get you started:
+---
+### I'm over here!
+- 👉 My website: [https://www.leonyanagida.com](https://www.leonyanagida.com) <br />
+- 📧 Contact me: [leonyanagida@gmail.com](mailto:leonyanagida@gmail.com) <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### My hobbies
+- 🏀 I love basketball <br />
+- 🎮 Casual gamer <br />
+- 📺 Binge-watching Korean dramas <br />
+- 🛹 Penny Boards <br />
+- 📈 Stonks
