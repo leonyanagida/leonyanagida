@@ -4,7 +4,6 @@
 - 👋 Hello, my name is Leon Yanagida <br />
 - 💻 I'm a Front-End Web Developer  <br />
 - 🏡 Based in Los Angeles, California  <br />
-- 💼 Open for work! <br />
 
 ---
 ### I'm over here!
