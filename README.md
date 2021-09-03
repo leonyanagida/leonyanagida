@@ -15,5 +15,5 @@
 - 🏀 I love basketball <br />
 - 🎮 Casual gamer <br />
 - 📺 Binge-watching Korean dramas <br />
-- 🛹 Penny Boards <br />
+- 🛹 Skateboarding <br />
 - 📈 Stonks
