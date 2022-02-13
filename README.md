@@ -2,7 +2,7 @@
 
 ## Welcome, allow me to introduce myself.
 - 👋 Hello, my name is Leon Yanagida <br />
-- 💻 I'm a Front-End Web Developer  <br />
+- 💻 I'm a Front-End Developer  <br />
 - 🏡 Based in Los Angeles, California  <br />
 
 ---
