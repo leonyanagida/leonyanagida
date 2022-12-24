@@ -1,6 +1,6 @@
 <img align='right' src='https://raw.githubusercontent.com/leonyanagida/leonyanagida/main/images/gif/glasses.gif' width='350"'>
 
-## Welcome, allow me to introduce myself.
+## Welcome,
 - 👋 Hello, my name is Leon Yanagida <br />
 - 💻 I'm a Front-End Developer  <br />
 - 🏡 Based in Los Angeles, California  <br />
