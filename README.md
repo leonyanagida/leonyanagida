@@ -2,7 +2,7 @@
 
 ## Welcome,
 - 👋 Hello, my name is Leon Yanagida <br />
-- 💻 I'm a Front-End Developer  <br />
+- 💻 I'm a Full-Stack Developer  <br />
 - 🏡 Based in Los Angeles, California  <br />
 
 ---
